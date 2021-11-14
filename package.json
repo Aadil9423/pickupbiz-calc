@@ -1,0 +1,32 @@
+{
+  "name": "pickupbiz-button",
+  "version": "2.0.1",
+  "description": "pickupbiz-button for design experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pickupbiz/pickupbiz-button.git"
+  },
+  "keywords": [
+    "design",
+    "button",
+    "emboised",
+    "user",
+    "experiece",
+    "shapes",
+    "of",
+    "buttons"
+  ],
+  "author": "PickupBiz Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pickupbiz/pickupbiz-button/issues"
+  },
+  "homepage": "https://github.com/pickupbiz/pickupbiz-button#readme",
+  "dependencies": {
+    "styled-components": "^5.3.3"
+  }
+}
